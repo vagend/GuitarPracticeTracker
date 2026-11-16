@@ -1,7 +1,8 @@
 GUITAR PRACTICE - practice log, timer, metronome, tuner and fretboard trainer
 =============================================================================
 Works on Mac and Windows. Keep this folder where it is once you've installed the app.
-New installs start empty: add your exercises on the Practice tab (+ Add your first exercise).
+New installs start with a few example exercises and an empty practice log. Edit them,
+add your own (Exercises > + Add exercise), and archive or delete the examples you don't use.
 
 FIRST TIME - MAC
 1. Double-click "Start Guitar Practice.command".

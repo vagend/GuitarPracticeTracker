@@ -30,7 +30,9 @@ Nothing is sent anywhere.
 3. The app opens in your browser. Click **Install app** (Chrome or Edge), or choose
    **File > Add to Dock** (Safari), so it opens in its own window from then on.
 
-The README.txt in the folder covers updating, backups and moving your log to another computer.
+It starts with a few example exercises (the same ones as in the videos) and an empty practice log;
+edit them, add your own, and archive or delete the ones you don't use. The README.txt in the folder
+covers updating, backups and moving your log to another computer.
 
 ## Videos
 
