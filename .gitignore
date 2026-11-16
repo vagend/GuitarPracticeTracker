@@ -1,0 +1,5 @@
+.DS_Store
+tutorial/.venv/
+tutorial/finished/
+tutorial/cache/
+tutorial/make_videos.log

@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Keep Windows launch files in Windows line endings, Mac launcher in Unix ones
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.command text eol=lf

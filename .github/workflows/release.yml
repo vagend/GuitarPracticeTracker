@@ -1,0 +1,54 @@
+# Every time you push, GitHub zips the app (just the files people need, in a "Guitar Practice"
+# folder) and puts it on this repo's Releases page under "Latest build". Nothing to do by hand.
+name: Publish app
+
+on:
+  push:
+    branches: [main, master]
+    paths-ignore: ["**.md", "tutorial/**", "docs/**"]
+  workflow_dispatch:   # lets you publish from the Actions tab
+
+permissions:
+  contents: write      # needed to publish the release
+
+concurrency:
+  group: release
+  cancel-in-progress: true
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Make Guitar-Practice.zip
+        run: |
+          VERSION=$(grep -oP "APP_VERSION='\K[^']+" index.html)
+          test -n "$VERSION"
+          echo "VERSION=$VERSION" >> "$GITHUB_ENV"
+          mkdir -p "out/Guitar Practice"
+          cp -r index.html trainer.html manifest.webmanifest sw.js icons README.txt \
+                "Start Guitar Practice.command" "Start Guitar Practice.bat" start-windows.ps1 "out/Guitar Practice/"
+          chmod +x "out/Guitar Practice/Start Guitar Practice.command"
+          cd out && zip -qr -X Guitar-Practice.zip "Guitar Practice"
+          unzip -l Guitar-Practice.zip
+
+      - name: Publish "Latest build"
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          gh release delete latest --yes --cleanup-tag || true
+          gh release create latest out/Guitar-Practice.zip \
+            --target "$GITHUB_SHA" \
+            --title "Guitar Practice $VERSION (latest build)" \
+            --latest \
+            --notes "Built from ${GITHUB_SHA::7} on $(date -u '+%Y-%m-%d %H:%M') UTC.
+
+          Download **Guitar-Practice.zip**, unzip it, and put the **Guitar Practice** folder somewhere to keep it (e.g. Documents).
+
+          **Mac:** double-click *Start Guitar Practice.command*. The first time, macOS may not open it: right-click it, choose Open, then Open again.
+          **Windows:** double-click *Start Guitar Practice.bat*. If SmartScreen warns you, click More info, then Run anyway.
+
+          The app opens in your browser; click Install to keep it as an app. The README in the folder has the details.
+          **Updating:** replace the files in your folder with the new ones, run the Start file once, then click Reload in the app. Your practice log is kept."
