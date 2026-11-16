@@ -150,7 +150,7 @@ async def make(folder, voice, names):
     others = [n for n in names if n != base]
     try: link = json.load(open(os.path.join(VIDEOS, "series.json"), encoding="utf-8")).get("link") or "[download link]"
     except Exception: link = "[download link]"
-    yt = [meta["title"], "", meta["description"], "", "Get the app: " + link, ""]
+    yt = [meta["title"], "", meta["description"], "", "Get the app " + link, ""]
     if len(ch) >= 3: yt += ["Chapters"] + [f"{stamp(a, False)} {b}" for a, b in ch] + [""]
     yt += ["More videos in this series:"] + [f"• {n[3:]}" for n in others]
     open(os.path.join(OUT, base + " - YouTube.txt"), "w", encoding="utf-8").write("\n".join(yt) + "\n")
