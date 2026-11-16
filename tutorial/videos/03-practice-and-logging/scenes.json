@@ -1,0 +1,79 @@
+{
+ "title": "Guitar Practice — Timing and Logging Your Practice",
+ "short": "Timing and logging",
+ "description": "Using the Practice tab in Guitar Practice: picking an exercise, the stopwatch and countdown timer, logging a session with your tempo and how it felt, and editing your log.",
+ "scenes": [
+  {
+   "frame": "frames/01.jpg",
+   "shot": "card:title",
+   "chapter": "Intro",
+   "text": "This video covers the Practice tab: picking an exercise, timing your practice, and logging it."
+  },
+  {
+   "frame": "frames/02.jpg",
+   "shot": "pr_tiles",
+   "chapter": "Today",
+   "text": "The tiles at the top show today's minutes against your daily goal, your streak of practice days, this week's total, and your all time total."
+  },
+  {
+   "frame": "frames/03.jpg",
+   "shot": "pr_pick",
+   "chapter": "Pick an exercise",
+   "text": "Pick an exercise from the list. Exercises are grouped by technique."
+  },
+  {
+   "frame": "frames/04.jpg",
+   "shot": "pr_card",
+   "chapter": null,
+   "text": "The exercise card shows its technique and subdivision, your goal tempo, your best, your last session, and your total time. Length and ladder max are used by the tempo ladder, and you can type straight into them."
+  },
+  {
+   "frame": "frames/05.jpg",
+   "shot": "pr_stopwatch",
+   "chapter": "Timer",
+   "text": "The stopwatch counts up. Press Start, or the space bar, and play. Press it again to pause."
+  },
+  {
+   "frame": "frames/06.jpg",
+   "shot": "pr_countdown",
+   "chapter": null,
+   "text": "Or switch to Countdown and pick a length. A chime plays when the time is up."
+  },
+  {
+   "frame": "frames/07.jpg",
+   "shot": "pr_pill",
+   "chapter": null,
+   "text": "If you go to another tab, the time keeps running in the header. Click it to come back."
+  },
+  {
+   "frame": "frames/08.jpg",
+   "shot": "pr_log",
+   "chapter": "Logging",
+   "text": "When you're done, press Finish and log. The minutes are filled in, and so is the metronome's tempo. Add a note if you like."
+  },
+  {
+   "frame": "frames/09.jpg",
+   "shot": "pr_feel",
+   "chapter": null,
+   "text": "Then pick how it felt. Point at a level to see what it means. You can change the levels in Settings."
+  },
+  {
+   "frame": "frames/10.jpg",
+   "shot": "pr_today",
+   "chapter": "Today's list",
+   "text": "Saved sessions show up in today's list. Click one to change it or delete it, or press Add to log something by hand."
+  },
+  {
+   "frame": "frames/11.jpg",
+   "shot": "pr_switch",
+   "chapter": null,
+   "text": "If you pick a different exercise while the timer has time on it, the app asks you to log the first one, so nothing gets mixed up."
+  },
+  {
+   "frame": "frames/12.jpg",
+   "shot": "card:end",
+   "chapter": null,
+   "text": "That's timing and logging. Happy practicing!"
+  }
+ ]
+}

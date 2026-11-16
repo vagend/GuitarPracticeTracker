@@ -1,0 +1,55 @@
+{
+ "title": "Guitar Practice — Tuner and Audio Input",
+ "short": "Tuner and audio input",
+ "description": "Setting up your audio interface or microphone in Guitar Practice, and using the tuner for guitar or bass in standard, drop and open tunings, or a custom tuning.",
+ "scenes": [
+  {
+   "frame": "frames/01.jpg",
+   "shot": "card:title",
+   "chapter": "Intro",
+   "text": "This video covers your audio input, and the tuner."
+  },
+  {
+   "frame": "frames/02.jpg",
+   "shot": "tu_audio",
+   "chapter": "Audio input",
+   "text": "Set up your input once, in Settings. Pick your audio interface or microphone. If your interface has two inputs, pick the one your guitar is plugged into."
+  },
+  {
+   "frame": "frames/03.jpg",
+   "shot": "tu_test",
+   "chapter": null,
+   "text": "Press Test input and play. The level bar should pass the line, which is the noise gate. Raise the input boost if it doesn't. The A four reference is normally four hundred and forty hertz."
+  },
+  {
+   "frame": "frames/04.jpg",
+   "shot": "tu_tuner",
+   "chapter": "The tuner",
+   "text": "The tuner listens as soon as you open its tab, and stops when you leave. Pluck a string. It shows the note, how many cents you're off, and lights the string it thinks you're tuning."
+  },
+  {
+   "frame": "frames/05.jpg",
+   "shot": "tu_intune",
+   "chapter": null,
+   "text": "When the needle is in the middle and the note turns green, the string is in tune."
+  },
+  {
+   "frame": "frames/06.jpg",
+   "shot": "tu_tuning",
+   "chapter": "Tunings",
+   "text": "Under Tuning, pick guitar or bass, the number of strings, and a tuning. There are standard, drop, open, and lowered tunings for six, seven, and eight string guitars, and four, five, and six string basses."
+  },
+  {
+   "frame": "frames/07.jpg",
+   "shot": "tu_custom",
+   "chapter": null,
+   "text": "Or set each string yourself. The tuner then follows your custom tuning."
+  },
+  {
+   "frame": "frames/08.jpg",
+   "shot": "card:end",
+   "chapter": null,
+   "text": "That's the tuner. Happy practicing!"
+  }
+ ]
+}

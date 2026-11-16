@@ -1,0 +1,73 @@
+{
+ "title": "Guitar Practice — Install, Update and Back Up",
+ "short": "Install, update and back up",
+ "description": "How to install Guitar Practice on a Mac or Windows PC, update it to a new version, back up your practice log and move it to another computer.",
+ "scenes": [
+  {
+   "frame": "frames/01.jpg",
+   "shot": "card:title",
+   "chapter": "Intro",
+   "text": "This video shows how to install Guitar Practice on a Mac or a Windows PC, how to update it, and how to back up your practice log."
+  },
+  {
+   "frame": "frames/02.jpg",
+   "shot": "card:mac",
+   "chapter": "Install on a Mac",
+   "text": "First, download Guitar Practice from the link in the description, and unzip it. On a Mac, open the Guitar Practice folder and double-click Start Guitar Practice dot command. The first time, macOS may not open it. If so, right-click it, choose Open, then Open again. A Terminal window starts the app, and it opens in your browser."
+  },
+  {
+   "frame": "frames/03.jpg",
+   "shot": "card:win",
+   "chapter": "Install on Windows",
+   "text": "On Windows, open the Guitar Practice folder and double-click Start Guitar Practice dot bat. If SmartScreen warns you, click More info, then Run anyway. A small window starts the app, and it opens in your browser."
+  },
+  {
+   "frame": "frames/04.jpg",
+   "shot": "in_install",
+   "chapter": "Install the app",
+   "text": "Now install it, so it opens in its own window like any other app. In Chrome or Edge, click Install app in the header, or the install icon in the address bar. In Safari, choose File, Add to Dock. From then on, open Guitar Practice from the Dock, Launchpad, or the Start menu."
+  },
+  {
+   "frame": "frames/05.jpg",
+   "shot": "card:data",
+   "chapter": null,
+   "text": "Keep the folder where it is, and always open the app the same way. Your practice log is stored inside the app on each computer, so a Mac and a PC each keep their own copy."
+  },
+  {
+   "frame": "frames/06.jpg",
+   "shot": "card:update",
+   "chapter": "Updating",
+   "text": "To update, download the new version from the same link, and copy its files over the ones in your folder. Run the Start Guitar Practice file once, then open the app and click Reload when it says a new version is ready. Your practice log is kept."
+  },
+  {
+   "frame": "frames/07.jpg",
+   "shot": "in_whatsnew",
+   "chapter": null,
+   "text": "The version number is shown next to the app name. Click it to see what changed in every version."
+  },
+  {
+   "frame": "frames/08.jpg",
+   "shot": "in_backup",
+   "chapter": "Backups",
+   "text": "In Settings, press Export backup now and then. It saves a small file you can keep anywhere. Import backup restores it, and it's also how you move your log to another computer. Export CSV gives you a spreadsheet copy."
+  },
+  {
+   "frame": "frames/09.jpg",
+   "shot": "in_look",
+   "chapter": "Settings",
+   "text": "Settings is also where you set your daily goal and countdown buttons, the chime, and the color scheme."
+  },
+  {
+   "frame": "frames/10.jpg",
+   "shot": "in_effort",
+   "chapter": null,
+   "text": "Further down, edit the effort levels you pick when you log, and the list of techniques you tag exercises with."
+  },
+  {
+   "frame": "frames/11.jpg",
+   "shot": "card:end",
+   "chapter": null,
+   "text": "That's it for installing, updating, and backups. Happy practicing!"
+  }
+ ]
+}

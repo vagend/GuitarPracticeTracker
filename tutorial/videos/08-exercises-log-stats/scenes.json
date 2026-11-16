@@ -1,0 +1,67 @@
+{
+ "title": "Guitar Practice — Exercises, Log and Stats",
+ "short": "Exercises, log and stats",
+ "description": "Managing your exercises and goal tempos in Guitar Practice, browsing and exporting your practice log, and reading the Stats charts.",
+ "scenes": [
+  {
+   "frame": "frames/01.jpg",
+   "shot": "card:title",
+   "chapter": "Intro",
+   "text": "This video covers your exercises, your practice log, and your stats."
+  },
+  {
+   "frame": "frames/02.jpg",
+   "shot": "ex_table",
+   "chapter": "Exercises",
+   "text": "The Exercises tab lists everything you practice, with your best tempo against your goal, a progress bar, when you last played it, and your total time."
+  },
+  {
+   "frame": "frames/03.jpg",
+   "shot": "ex_edit",
+   "chapter": null,
+   "text": "Click an exercise to edit it, or press Add exercise. Give it a name, a technique, a subdivision, and a goal tempo. The ladder settings and a note are here too."
+  },
+  {
+   "frame": "frames/04.jpg",
+   "shot": "ex_archive",
+   "chapter": null,
+   "text": "Tick Archived to hide an exercise you've finished with. Its history is kept."
+  },
+  {
+   "frame": "frames/05.jpg",
+   "shot": "lg_list",
+   "chapter": "Log",
+   "text": "The Log tab lists every session, by day. Click one to change it, or add an entry by hand."
+  },
+  {
+   "frame": "frames/06.jpg",
+   "shot": "lg_filter",
+   "chapter": null,
+   "text": "Filter by exercise, technique, or date range, and export a spreadsheet file with Export CSV."
+  },
+  {
+   "frame": "frames/07.jpg",
+   "shot": "st_daily",
+   "chapter": "Stats",
+   "text": "The Stats tab starts with your totals, then charts your minutes each day against your daily goal. Point at a bar for the details."
+  },
+  {
+   "frame": "frames/08.jpg",
+   "shot": "st_split",
+   "chapter": null,
+   "text": "Below, see where your time goes, by technique and by exercise."
+  },
+  {
+   "frame": "frames/09.jpg",
+   "shot": "st_progress",
+   "chapter": "Progress",
+   "text": "Progress charts your tempo on each exercise over time, with your goal as a dashed line. Point at a dot for the details."
+  },
+  {
+   "frame": "frames/10.jpg",
+   "shot": "card:end",
+   "chapter": null,
+   "text": "That's exercises, the log, and stats. Happy practicing!"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "title": "Guitar Practice — The Metronome and Drum Patterns",
+ "short": "Metronome",
+ "description": "The built-in metronome in Guitar Practice: tempo controls and tap tempo, beats per bar and divisions including triplets, drawing your own kick, snare and hi-hat pattern, and sound options.",
+ "scenes": [
+  {
+   "frame": "frames/01.jpg",
+   "shot": "card:title",
+   "chapter": "Intro",
+   "text": "This video covers the metronome on the Practice tab."
+  },
+  {
+   "frame": "frames/02.jpg",
+   "shot": "me_start",
+   "chapter": "Tempo",
+   "text": "Press Start, or the M key, to start and stop it. Change the tempo by five or by one, type a number, or tap the tempo a few times."
+  },
+  {
+   "frame": "frames/03.jpg",
+   "shot": "me_steps",
+   "chapter": null,
+   "text": "The ladder steps jump straight to a percentage of the exercise's goal tempo, from seventy up to one hundred and ten percent."
+  },
+  {
+   "frame": "frames/04.jpg",
+   "shot": "me_meter",
+   "chapter": "Beats and divisions",
+   "text": "Choose the beats per bar and the division: quarter notes, eighths, sixteenths, triplets, and more. It can follow the exercise's subdivision for you."
+  },
+  {
+   "frame": "frames/05.jpg",
+   "shot": "me_grid",
+   "chapter": "Drum pattern",
+   "text": "The grid is your pattern. The primary row plays like a kick drum, the secondary like a snare, and the minor like a hi hat."
+  },
+  {
+   "frame": "frames/06.jpg",
+   "shot": "me_drag",
+   "chapter": null,
+   "text": "Click a square to turn it on or off, or click and drag across the grid to paint several at once. The presets give you a quick starting point."
+  },
+  {
+   "frame": "frames/07.jpg",
+   "shot": "me_sounds",
+   "chapter": "Sounds and options",
+   "text": "Under Sounds and options, choose drum sounds or a classic click, set each volume, or load your own sound files."
+  },
+  {
+   "frame": "frames/08.jpg",
+   "shot": "me_options",
+   "chapter": null,
+   "text": "You can also have the metronome start and stop with the practice timer."
+  },
+  {
+   "frame": "frames/09.jpg",
+   "shot": "card:end",
+   "chapter": null,
+   "text": "That's the metronome. The tempo ladder has a video of its own. Happy practicing!"
+  }
+ ]
+}

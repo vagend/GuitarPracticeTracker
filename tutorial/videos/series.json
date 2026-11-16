@@ -1,0 +1,13 @@
+{
+ "series": [
+  "01-overview",
+  "02-install-update-backup",
+  "03-practice-and-logging",
+  "04-metronome",
+  "05-tempo-ladder",
+  "06-tuner-and-audio",
+  "07-fretboard-trainer",
+  "08-exercises-log-stats"
+ ],
+ "link": "https://github.com/vagend/GuitarPracticeTracker/releases/latest"
+}

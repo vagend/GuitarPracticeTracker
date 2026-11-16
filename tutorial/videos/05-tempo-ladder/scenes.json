@@ -1,0 +1,85 @@
+{
+ "title": "Guitar Practice — Building Speed with the Tempo Ladder",
+ "short": "Tempo ladder",
+ "description": "The tempo ladder in Guitar Practice steps the metronome up past your goal tempo and back down, so you build speed gradually. Setting the ladder max, exercise length and repeats, get-ready clicks, pausing, skipping and staying on a tempo, and logging a ladder run.",
+ "scenes": [
+  {
+   "frame": "frames/01.jpg",
+   "shot": "card:title",
+   "chapter": "Intro",
+   "text": "The tempo ladder helps you build speed. This video shows how it works and how to set it up."
+  },
+  {
+   "frame": "frames/02.jpg",
+   "shot": "la_idea",
+   "chapter": "How it works",
+   "text": "It steps the metronome up from seventy percent to one hundred and ten percent of your ladder max, then back down to ninety percent. Finishing below your top speed makes your normal tempo feel easier."
+  },
+  {
+   "frame": "frames/03.jpg",
+   "shot": "la_max",
+   "chapter": "Set it up",
+   "text": "First, set the ladder max on the exercise card. That's the fastest tempo the ladder reaches. Leave it empty, and it goes ten percent past your goal."
+  },
+  {
+   "frame": "frames/04.jpg",
+   "shot": "la_len",
+   "chapter": null,
+   "text": "Then set the exercise's length in measures, so the ladder knows how long one time through takes."
+  },
+  {
+   "frame": "frames/05.jpg",
+   "shot": "la_reps",
+   "chapter": null,
+   "text": "Next to the ladder button, choose how many times to play the exercise at each tempo."
+  },
+  {
+   "frame": "frames/06.jpg",
+   "shot": "la_ready",
+   "chapter": null,
+   "text": "Get ready clicks play just the beats, at the new speed, before each new tempo. You can have them between repeats too."
+  },
+  {
+   "frame": "frames/07.jpg",
+   "shot": "la_go",
+   "chapter": "Running the ladder",
+   "text": "Press Tempo ladder to start. The practice timer starts with it. While the clicks play, the beats turn amber and you'll see Get ready."
+  },
+  {
+   "frame": "frames/08.jpg",
+   "shot": "la_play",
+   "chapter": null,
+   "text": "Then play. The status line shows the step, the tempo, the repeat, and the measure you're on."
+  },
+  {
+   "frame": "frames/09.jpg",
+   "shot": "la_ctl",
+   "chapter": "Controls",
+   "text": "While it runs, skip to the next or previous tempo, or press Stay at this tempo to keep repeating it until you're ready to move on."
+  },
+  {
+   "frame": "frames/10.jpg",
+   "shot": "la_pause",
+   "chapter": null,
+   "text": "Pause the timer, or stop the metronome, and the ladder pauses with it. When you resume, you get a get ready, then it picks up where you left off."
+  },
+  {
+   "frame": "frames/11.jpg",
+   "shot": "la_hold",
+   "chapter": "Finishing",
+   "text": "At the end, it keeps playing at ninety percent. Press End ladder to stop the metronome and the timer."
+  },
+  {
+   "frame": "frames/12.jpg",
+   "shot": "la_log",
+   "chapter": "Logging a ladder run",
+   "text": "When you log, Tempo ladder run is ticked and the top tempo is filled in. Ladder tempos push past what you can really play, so they don't count as your best, and they show as hollow dots on the progress chart."
+  },
+  {
+   "frame": "frames/13.jpg",
+   "shot": "card:end",
+   "chapter": null,
+   "text": "That's the tempo ladder. Happy practicing!"
+  }
+ ]
+}

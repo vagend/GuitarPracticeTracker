@@ -1,0 +1,79 @@
+{
+ "title": "Guitar Practice — App Overview",
+ "short": "Overview",
+ "description": "A quick tour of Guitar Practice, a free app for timing, logging and tracking your guitar practice. It runs in your browser on a Mac or Windows PC, works offline, and keeps your data on your own computer.",
+ "scenes": [
+  {
+   "frame": "frames/01.jpg",
+   "shot": "card:title",
+   "chapter": "Intro",
+   "text": "Welcome to Guitar Practice, a free app for timing, logging, and tracking your guitar practice. It runs in your browser on a Mac or a Windows PC, works offline, and keeps everything on your own computer."
+  },
+  {
+   "frame": "frames/02.jpg",
+   "shot": "ov_tabs",
+   "chapter": null,
+   "text": "The practice tabs run across the top: Practice, Fretboard, Log, Exercises, and Stats. The tuner and the settings sit on the right."
+  },
+  {
+   "frame": "frames/03.jpg",
+   "shot": "ov_practice",
+   "chapter": "Practice",
+   "text": "On the Practice tab, pick an exercise. Its card shows your goal tempo, your best so far, and how much time you've put in. The tiles above show today's minutes against your daily goal, and your streak."
+  },
+  {
+   "frame": "frames/04.jpg",
+   "shot": "ov_timer",
+   "chapter": null,
+   "text": "Start the timer and play. When you're done, press Finish and log to save the session, with your tempo and how it felt."
+  },
+  {
+   "frame": "frames/05.jpg",
+   "shot": "ov_metro",
+   "chapter": "Metronome",
+   "text": "The metronome is built in, with drum or click sounds and a beat pattern you can draw yourself."
+  },
+  {
+   "frame": "frames/06.jpg",
+   "shot": "ov_ladder",
+   "chapter": null,
+   "text": "The tempo ladder walks the metronome up through a set of tempos, past your goal, and back down again, so you build speed a step at a time."
+  },
+  {
+   "frame": "frames/07.jpg",
+   "shot": "ov_trainer",
+   "chapter": "Fretboard trainer",
+   "text": "The Fretboard tab is a note trainer for learning every note on the neck. It keeps its own time and score, and logs itself."
+  },
+  {
+   "frame": "frames/08.jpg",
+   "shot": "ov_tuner",
+   "chapter": "Tuner",
+   "text": "The tuner works for guitar or bass, in standard, drop, or open tunings."
+  },
+  {
+   "frame": "frames/09.jpg",
+   "shot": "ov_log",
+   "chapter": "Log and stats",
+   "text": "Every session goes into the log, which you can filter and export as a spreadsheet."
+  },
+  {
+   "frame": "frames/10.jpg",
+   "shot": "ov_stats",
+   "chapter": null,
+   "text": "The Stats tab charts your minutes each day against your goal, and your progress on each exercise."
+  },
+  {
+   "frame": "frames/11.jpg",
+   "shot": "ov_settings",
+   "chapter": "Settings",
+   "text": "In Settings, choose your audio input, a color scheme, and back up your practice log."
+  },
+  {
+   "frame": "frames/12.jpg",
+   "shot": "card:end",
+   "chapter": null,
+   "text": "Each part of the app has its own video with more detail. Thanks for watching, and happy practicing!"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "title": "Guitar Practice — Learn the Fretboard with the Note Trainer",
+ "short": "Fretboard trainer",
+ "description": "The Fretboard trainer in Guitar Practice: name the note, find the note, or play it into a microphone; timed challenges; your progress by note and string; and how it logs its own time and score.",
+ "scenes": [
+  {
+   "frame": "frames/01.jpg",
+   "shot": "card:title",
+   "chapter": "Intro",
+   "text": "The Fretboard tab is a trainer for learning every note on the neck."
+  },
+  {
+   "frame": "frames/02.jpg",
+   "shot": "tr_name",
+   "chapter": "Name the note",
+   "text": "In Name the note, a dot appears on the fretboard. Click the note's name, or type its letter on the keyboard."
+  },
+  {
+   "frame": "frames/03.jpg",
+   "shot": "tr_find",
+   "chapter": "Find the note",
+   "text": "In Find the note, it names a note and a string, and you click the right fret."
+  },
+  {
+   "frame": "frames/04.jpg",
+   "shot": "tr_mic",
+   "chapter": "Play it",
+   "text": "In Play it, you play the note on your guitar, and the trainer listens through your audio input."
+  },
+  {
+   "frame": "frames/05.jpg",
+   "shot": "tr_range",
+   "chapter": "Choose what to practice",
+   "text": "Choose how far up the neck to go, whether to include sharps and flats, and which strings to practice."
+  },
+  {
+   "frame": "frames/06.jpg",
+   "shot": "tr_game",
+   "chapter": "Timed challenge",
+   "text": "Pick Free practice, or a timed challenge from one to thirty minutes. Your score, streak, and accuracy show below the board."
+  },
+  {
+   "frame": "frames/07.jpg",
+   "shot": "tr_progress",
+   "chapter": "Your progress",
+   "text": "Your progress shows how many seconds each note takes you, from green for fast to red for slow, and the same for each string."
+  },
+  {
+   "frame": "frames/08.jpg",
+   "shot": "tr_settings",
+   "chapter": null,
+   "text": "The settings set how strictly it listens, and whether it plays or speaks each note for you."
+  },
+  {
+   "frame": "frames/09.jpg",
+   "shot": "tr_log",
+   "chapter": "Logging",
+   "text": "The trainer keeps its own time. While it runs, your minutes and score go into one Fretboard Trainer entry for the day. It's saved when you leave the tab, and added to if you come back."
+  },
+  {
+   "frame": "frames/10.jpg",
+   "shot": "tr_stats",
+   "chapter": null,
+   "text": "On the Stats tab, pick the Fretboard Trainer to see your score by day, and how fast you find each note."
+  },
+  {
+   "frame": "frames/11.jpg",
+   "shot": "card:end",
+   "chapter": null,
+   "text": "That's the fretboard trainer. Happy practicing!"
+  }
+ ]
+}
