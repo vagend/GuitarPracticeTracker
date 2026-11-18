@@ -1,7 +1,7 @@
 {
  "title": "Guitar Practice Tracker — Learn the Fretboard with the Note Trainer",
  "short": "Fretboard trainer",
- "description": "The Fretboard trainer in Guitar Practice: name the note, find the note, or play it into a microphone; timed challenges; your progress by note and string; and how it logs its own time and score.",
+ "description": "The Fretboard trainer in Guitar Practice: name the note, find the note, or have it call out a note and wait until you play it on your guitar; timed challenges; your progress by note and string; and how it logs its own time and score.",
  "scenes": [
   {
    "frame": "frames/01.jpg",
@@ -25,7 +25,7 @@
    "frame": "frames/04.jpg",
    "shot": "tr_mic",
    "chapter": "Play it",
-   "text": "In Play it, you play the note on your guitar, and the trainer listens through your audio input."
+   "text": "Play it is what makes this trainer special. With Speak the requested note turned on in the settings, it says a note out loud, then listens and waits until you actually play that note on your guitar. If you play a different note, it tells you what it heard and keeps waiting for the right one. Your eyes stay on the neck and your hands on the strings, so you learn the notes the way you'll use them."
   },
   {
    "frame": "frames/05.jpg",
@@ -49,7 +49,7 @@
    "frame": "frames/08.jpg",
    "shot": "tr_settings",
    "chapter": null,
-   "text": "The settings set how strictly it listens, and whether it plays or speaks each note for you."
+   "text": "The settings set how strictly it listens, and whether it plays a tone or speaks each note out loud."
   },
   {
    "frame": "frames/09.jpg",
