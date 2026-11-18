@@ -36,7 +36,8 @@ covers updating, backups and moving your log to another computer.
 
 ## Videos
 
-An overview and a video for each part of the app: *(links to come)*
+An overview and a video for each part of the app on the
+[Guitar Practice Tracker YouTube channel](https://www.youtube.com/@GuitarPracticeTracker).
 
 ## How it's built
 
